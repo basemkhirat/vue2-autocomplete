@@ -388,7 +388,7 @@ if (false) {(function () {
           break;
         case ENTER:
           e.preventDefault();
-          this.selectList(this.json[this.focusList]);
+          //this.selectList(this.json[this.focusList]);
           this.showList = false;
           break;
         case ESC:
