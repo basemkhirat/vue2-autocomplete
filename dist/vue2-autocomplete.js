@@ -450,7 +450,7 @@ if (false) {(function () {
       // Deep clone of the original object
       var clean = this.cleanUp(data);
       // Put the selected data to type (model)
-      this.type = clean[this.anchor];
+      //this.type = clean[this.anchor];
       // Hide List
       this.showList = false;
       // Callback Event
